@@ -1,6 +1,6 @@
 ### Hi there 👋, Karan Prajapati
 #### Data Scientist 
-![Data Scientist ](https://www.canva.com/join/fyd-zfy-pmk)
+![Data Scientist ]([https://www.canva.com/join/fyd-zfy-pmk](https://www.canva.com/join/fyd-zfy-pmk))
 
 Hello there! I'm Karan Prajapati, a dedicated and creative programmer with a passion for turning ideas into functional and elegant solutions through code. With a strong background in computer science and hands-on experience in various programming languages.
 
