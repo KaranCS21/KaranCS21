@@ -1,19 +1,18 @@
-### Hi there 👋, Karan Prajapati
-#### Data Scientist 
-![Data Scientist ](https://static.tildacdn.com/tild3762-3063-4735-b434-373137633561/Does_Data_Science_Re.jpeg)
+# KaranCS
 
+Hi, I'm Karan! Welcome to my GitHub profile.
 
-Hello there! I'm Karan Prajapati, a dedicated and creative programmer with a passion for turning ideas into functional and elegant solutions through code. With a strong background in computer science and hands-on experience in various programming languages.
+## About Me
 
-Skills: C++ / Python / SQL / Numpy / Pandas / Matplotlib / Data Scientist
+- **Name**: Karan
+- **Profession**: Data Scientist
+- **Skills**: Python, Machine Learning, Data Analysis, NLP, Git, Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn
 
-- 🔭 I’m currently working on Data Vishulization 
-- 🌱 I’m currently learning Machine learning 
-- 👯 I’m looking to collaborate on Python projects 
-- 💬 Ask me about Python and Data Science 
-- 📫 How to reach me: karanparajapati54@gmail.com 
-- ⚡ Fun fact: AI-generated text prediction model was trained to write a Harry Potter novel. 
+## Projects
 
+### Fake Job Detection
+A machine learning project to detect fake job listings using Natural Language Processing (NLP) techniques. It preprocesses job post data, extracts key features, and employs a Random Forest classifier to differentiate between genuine and fake job postings.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/KaranCS21)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/karanprajapati07//)  
-
+### Contact
+- **Email**: [your_email@example.com](mailto:your_email@example.com)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin/)
