@@ -1,4 +1,4 @@
-# KaranCS
+# Karan Prajapati
 
 Hi, I'm Karan! Welcome to my GitHub profile.
 
