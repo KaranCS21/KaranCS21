@@ -6,7 +6,7 @@ Hi, I'm Karan! Welcome to my GitHub profile.
 
 ## 🚀 About Me
 
-- 🎓 **Education**: Bachelor of Technology in Computer Science (Graduating July 2024)
+- 🎓 **Education**: Bachelor of Technology in Computer Science (Graduating in 2024)
 - 🎓 **Institution**: Vaishnavi Group of Institutions
 - 🏆 **Achievements**: 
   - Named 'Student of the Year' in 2020
