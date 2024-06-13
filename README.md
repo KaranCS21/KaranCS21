@@ -49,7 +49,7 @@ A recommendation engine that suggests movies to users based on their preferences
 ## 📫 Contact Me
 
 - 📧 **Email**: [karan.prajapati@example.com](mailto:karan.prajapati@example.com)
-- 💼 **LinkedIn**: [[LinkedIn Profile](https://www.linkedin.com/in/aspirantkaran/)]
+- 💼 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/aspirantkaran/)
 
 ---
 
