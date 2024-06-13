@@ -1,7 +1,6 @@
 # 💻 KaranCS - Karan Prajapati
 
-Hello, my name is Karan Prajapati, and I’m from Bhopal. I’m currently pursuing a Bachelor of Technology in Computer Science from Vaishnavi Group of Institutions, graduating in July 2024. Alongside my degree, I’ve taken specialized courses in Data Science with Python and C & C++ programming.
-
+Hi, I'm Karan! Welcome to my GitHub profile.
 ---
 
 ## 🚀 About Me
