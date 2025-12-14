@@ -46,7 +46,7 @@ A recommendation engine that suggests movies to users based on their preferences
 ## 📫 Contact Me
 
 - 📧 **Email**: [karan.parajapati54@gmail.com](mailto:karan.parajapati54@gmail.com)
-- 💼 **LinkedIn**: [LinkedIn Profile]([https://www.linkedin.com/in/aspirantkaran/](https://www.linkedin.com/in/karan-datascientist/))
+- 💼 **LinkedIn**: [LinkedIn Profile]([https://www.linkedin.com/in/karan-datascientist/])
 
 ---
 
