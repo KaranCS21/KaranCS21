@@ -10,7 +10,7 @@ Hi, I'm Karan! Welcome to my GitHub profile.
 - 🎓 **Institution**: Vaishnavi Group of Institutions
 - 🏆 **Achievements**: 
   - Named 'Student of the Year' in 2020
-  - Secured top ranks in various national competitions
+  - Secured Second ranks in Science Day competitions
 
 ## 🛠 Skills
 
