@@ -20,7 +20,7 @@ Hi, I'm Karan! Welcome to my GitHub profile.
   ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 - **Visualization Tools**:
-  ![Power BI](https://img.shields.io) 
+  ![Power BI](https://img.shields.io/badge/-Power%20BI%20-3776AB?style=flat&logo=python&logoColor=white)
 
 - **Libraries and Tools**: 
   ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
