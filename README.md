@@ -19,6 +19,9 @@ Hi, I'm Karan! Welcome to my GitHub profile.
   ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
   ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
+- **Visualization Tools**:
+  ![Power BI](https://img.shields.io) 
+
 - **Libraries and Tools**: 
   ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
   ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
